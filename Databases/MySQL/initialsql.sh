@@ -12,4 +12,4 @@ sudo mysql_secure_installation
 sudo mysql
 
 # Log in to MySQL as user 'aarya1' and prompt for the password
-mysql -u aarya1 -p
+mysql -u username -p
